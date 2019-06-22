@@ -1,0 +1,3 @@
+weather:
+  - platform: myWeather
+    api_key: [OpenWeatherMapApiKey]
