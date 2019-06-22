@@ -12,6 +12,8 @@ You can send over MQTT
  <h2> installation Guide </h2> <br>
  1. Clone this repository in [homeassistantConfig]/custom_components  <br>
  2. Configure the component: [homeassistantConfig]/custom_components/myWeather/weather.py
+ 3. Configure it in your home assistant like it is shown in the configuration.yaml file.
+ 4. restart your homeassistant
  
  <br><br><br>
  This Component is based on https://github.com/home-assistant/home-assistant/tree/dev/homeassistant/components/openweathermap
